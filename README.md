@@ -1,2 +1,12 @@
-# Proyecto-Codelco-2.1
-Esta pagina contiene informacion sobre Codelco, su grado de integracion vertical y determinantes de gobernanza
+# Proyecto Codelco - versión interactiva mejorada
+
+Incluye:
+- Diseño visual mejorado
+- Caso aplicado a Codelco
+- Simulador con múltiples parámetros
+- Gráfico interactivo estilo panel analítico
+- Punto óptimo estimado y diagnóstico automático
+
+## Publicación
+Sube estos archivos al repositorio y reemplaza los actuales.
+GitHub Pages actualizará la vista publicada.
